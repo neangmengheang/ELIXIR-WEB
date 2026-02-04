@@ -1,0 +1,8 @@
+{
+  "name": "ELIXER - Cambodia InsurTech",
+  "description": "A smart, AI-powered insurance platform for Cambodia featuring automated claims, social knowledge sharing, and an expert AI advisor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

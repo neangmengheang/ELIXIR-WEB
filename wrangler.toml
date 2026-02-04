@@ -1,0 +1,7 @@
+
+name = "elixer-insurtech"
+pages_build_output_dir = "dist"
+
+[vars]
+# The API key should be set in the Cloudflare Pages Dashboard as an environment variable
+# GEMINI_API_KEY = "your-api-key"
